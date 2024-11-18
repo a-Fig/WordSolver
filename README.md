@@ -31,7 +31,7 @@ WordSolver is a command-line application designed to help you dominate word game
    ./WordSolver
 
 ## Usage
-once the program has begun and loaded wordlist.txt
+once the program has begun and loaded the word list
 1. You will be prompted with "matrix>"
 2. go ahead and input a string of lowercase letters on a single line and the program will turn your string into a NxN matrix of letters
 3. The program will then display the 15 best words that can be made
