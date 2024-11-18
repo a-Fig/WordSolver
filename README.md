@@ -102,5 +102,5 @@ calculate 2 letter swaps(y/n)?y
 [a][h] [d][u]chub -> 17
 
 
-matrix>
+matrix><
 
