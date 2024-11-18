@@ -42,36 +42,65 @@ once the program has begun and loaded the word list
 
 ## Example
 Enter a list of lowercase letters all on one line from left to right
+
 type '<' to exit
+
 matrix>abcd
 
+
 [a][b]
+
 [c][d]
 
+
 solving 2x2 matrix...
+
 6 words found
+
 ad -> 4
+
 db -> 7
+
 bad -> 8
+
 dab -> 8
+
 cad -> 9
+
 cab -> 10
 
+
 calculate 1 letter swaps(y/n)?y
+
 -1 letter swaps- 137 words found
+
 [d][k]back -> 16
+
 [d][z]zac -> 14
+
 [d][h]bach -> 14
+
 [d][u]cub -> 13
+
 [c][w]bawd -> 13
 
+
 calculating 2 letter swaps will take many seconds especially on larger matrixes
+
 calculate 2 letter swaps(y/n)?y
+
 -swaps2- 947 words found
+
 [b][k] [d][z]zack -> 20
+
 [b][j] [d][k]jack -> 19
+
 [a][k] [d][u]buck -> 19
+
 [a][k] [b][u]duck -> 18
+
 [a][h] [d][u]chub -> 17
 
+
 matrix>
+
