@@ -9,18 +9,25 @@ WordSolver is a command-line application designed to help you dominate word game
 
    git clone https://github.com/a-fig/WordSolver.git
 3. Open the project directory in the terminal:
+   
    cd WordSolver
-4. Compile the program:
+5. Compile the program:
+   
    g++ -o program main.cpp
-5. Run the program:
+7. Run the program:
+   
    ./program
 ### Option 2: Use Precompiled Binary
 1. Clone the project:
+   
    in windows powershell run
+
    git clone https://github.com/a-fig/WordSolver.git
-2. Open the project directory in the terminal:
+3. Open the project directory in the terminal:
+   
    cd WordSolver
-3. Run the Precompiled program:
+5. Run the Precompiled program:
+   
    ./WordSolver
 
 ## Usage
