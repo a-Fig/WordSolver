@@ -35,9 +35,10 @@ once the program has begun and loaded the word list
 1. You will be prompted with "matrix>"
 2. Go ahead and input a string of lowercase letters on a single line and the program will turn your string into a NxN matrix of letters
 3. The program will then display the 15 best words that can be made
-4. The program will then ask if you'd like it to find the 5 best words with a single-letter swap, respond with 'y' or 'n'
-5. If you said yes it'll also ask if you'd like it to find the 5 best words with a two-letter swap, respond with 'y' or 'n'
-6. After that you will be prompted with "matrix>" again, enter '<' to end the program or enter another matrix for it to solve
+4. The value of each word is determined in the same way Spellcast does
+5. The program will then ask if you'd like it to find the 5 best words with a single-letter swap, respond with 'y' or 'n'
+6. If you said yes it'll also ask if you'd like it to find the 5 best words with a two-letter swap, respond with 'y' or 'n'
+7. After that you will be prompted with "matrix>" again, enter '<' to end the program or enter another matrix for it to solve
 
 
 ## Example
