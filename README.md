@@ -16,7 +16,7 @@ WordSolver is a command-line application designed to help you dominate word game
    g++ -o program main.cpp
 7. Run the program:
    
-   ./program
+   ./program.exe
 ### Option 2: Use Precompiled Binary
 1. Clone the project:
    
@@ -28,7 +28,7 @@ WordSolver is a command-line application designed to help you dominate word game
    cd WordSolver
 5. Run the Precompiled program:
    
-   ./WordSolver
+   ./WordSolver.exe
 
 ## Usage
 once the program has begun and loaded the word list
